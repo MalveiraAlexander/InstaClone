@@ -1,0 +1,14 @@
+﻿################################################################################
+# Este archivo .gitignore ha sido creado automáticamente por Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs/InstaClone
+/InstaClone/bin/Debug/net8.0
+/InstaClone/obj
+*.user
+/InstaClone.Commons/bin/Debug/net8.0
+/InstaClone.Commons/obj
+/InstaClone.Core/bin/Debug/net8.0
+/InstaClone.Core/obj
+/InstaClone.UnitTest/bin/Debug/net8.0
+/InstaClone.UnitTest/obj
